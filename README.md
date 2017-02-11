@@ -2,74 +2,73 @@
 android studio 汉化资源包
 
 ##说明：
-练习英语所做，若有不当，请告知。
+若有不当，请告知。
 
 ##使用说明：
-android studio 1.5之前（未测试，可能兼容）  
-android studio 1.5-2.2.2版本（已测试，兼容）  
-android studio 2.2之后（未测试，理论兼容）  
+android studio 1.5-2.2.3版本（已测试）  
+android studio 其他版本（未测试，理论兼容）  
 
 ##使用方法：
 把resources_cn.jar文件直接放入android-studio\lib，然后启动android studio即可
 
-##翻译进度：(1652/7418)
+##翻译进度：(1986/9473)
 已补充至2.0  
-已匹配至2.2.2(2016-10-18)  
+已匹配至2.2.3(2017-01-03)  
 
 ----------
 
-###已翻译：(357)
+###已翻译：(647)
 
 CodeEditorBundle.properties(64)  
+CommonBundle.properties(151)  
 EditorBundle.properties(28)  
 EvaluationFeedbackRequest.html(9)  
 FileTypesBundle.properties(25)  
+GraphBundle.properties(14)  
 JamBundle.properties(14)  
 LicenseCommonBundle.properties(6)  
 StatisticsBundle.properties(7)  
-UIBundle.properties(166)
+UIBundle.properties(166)  
 VfsBundle.properties(38)  
+XDebuggerBundle.properties(125) 
 
 ----------
 
-###未完成：(1295/3073)
+###未完成：(1339/3952)
 
 ActionsBundle.properties(592/1479)  
 AnalysisScopeBundle.properties(34/96)  
-ApplicationBundle.properties(45/719)  
-CommonBundle.properties(96/150)  
-CompletionBundle.properties(2/10)  
-GraphBundle.properties(11/14)  
-IdeBundle.properties(515/1156)  
+ApplicationBundle.properties(66/719)  
+CompletionBundle.properties(3/10)  
+DebuggerBundle.properties(20/482)  
+IdeBundle.properties(624/1166)  
 
 ----------
 
-###未开始：(4187)
+###未开始：(4874)
 
-AntBundle.properties  
-CodeInsightBundle.properties  
-CompilerBundle.properties  
-DaemonBundle.properties  
-DebuggerBundle.properties  
-DesignerBundle.properties  
-DiagnosticBundle.properties  
-DiffBundle.properties  
-DomBundle.properties  
-DupLocatorBundle.properties  
-ExecutionBundle.properties  
-FeatureStatisticsBundle.properties  
-FindBundle.properties  
-InspectionsBundle.properties  
-JavadocBundle.properties  
-KeyMapBundle.properties  
-LangBundle.properties  
-OptionsBundle.properties  
-PsiBundle.properties  
-QuickFixBundle.properties  
-RefactoringBundle.properties  
-SMTestsRunnerBundle.properties  
-ToolsBundle.properties  
-UsageView.properties  
-VcsBundle.properties  
-XDebuggerBundle.properties  
-XmlBundle.properties  
+AntBundle.properties(184)  
+CodeInsightBundle.properties(514)  
+CompilerBundle.properties(158)  
+DaemonBundle.properties(40)  
+DesignerBundle.properties(22)  
+DiagnosticBundle.properties(95)  
+DiffBundle.properties(22)  
+DomBundle.properties(21)  
+DupLocatorBundle.properties(38)  
+ExecutionBundle.properties(354)  
+FeatureStatisticsBundle.properties(98)  
+FindBundle.properties(130)  
+InspectionsBundle.properties(622)  
+JavadocBundle.properties(32)  
+KeyMapBundle.properties(97)  
+LangBundle.properties(55)  
+OptionsBundle.properties(313)  
+PsiBundle.properties(87)  
+QuickFixBundle.properties(249)  
+RefactoringBundle.properties(788)  
+SMTestsRunnerBundle.properties(34)  
+ToolsBundle.properties(63)  
+UsageView.properties(74)  
+VcsBundle.properties(566)  
+XmlBundle.properties(218)  
