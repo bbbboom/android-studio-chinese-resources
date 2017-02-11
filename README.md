@@ -11,7 +11,7 @@ android studio 其他版本（未测试，理论兼容）
 ##使用方法：
 把resources_cn.jar文件直接放入android-studio\lib，然后启动android studio即可
 
-##翻译进度：(1986/9473)
+##翻译进度：(2065/9473)
 已补充至2.0  
 已匹配至2.2.3(2017-01-03)  
 
@@ -34,9 +34,9 @@ XDebuggerBundle.properties(125)
 
 ----------
 
-###未完成：(1339/3952)
+###未完成：(1418/3952)
 
-ActionsBundle.properties(592/1479)  
+ActionsBundle.properties(671/1479) 
 AnalysisScopeBundle.properties(34/96)  
 ApplicationBundle.properties(66/719)  
 CompletionBundle.properties(3/10)  
